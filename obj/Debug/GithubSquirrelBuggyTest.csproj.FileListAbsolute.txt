@@ -1,0 +1,15 @@
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\MainWindow.g.cs
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\App.g.cs
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest_MarkupCompile.cache
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest_MarkupCompile.lref
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Debug\GithubSquirrelBuggyTest.exe.config
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Debug\GithubSquirrelBuggyTest.exe
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Debug\GithubSquirrelBuggyTest.pdb
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\MainWindow.baml
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.g.resources
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.Properties.Resources.resources
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.exe
+C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Debug\GithubSquirrelBuggyTest.pdb
