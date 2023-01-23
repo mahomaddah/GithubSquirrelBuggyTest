@@ -28,5 +28,4 @@ C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\R
 C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Release\Mono.Cecil.Rocks.pdb
 C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Release\NuGet.Squirrel.pdb
 C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\bin\Release\Squirrel.pdb
-C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Release\GithubSquirrelBuggyTest.csproj.AssemblyReference.cache
 C:\Users\asus\source\repos\GithubSquirrelBuggyTest\GithubSquirrelBuggyTest\obj\Release\GithubSquirrelBuggyTest.csproj.CopyComplete

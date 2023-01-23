@@ -43,9 +43,10 @@ namespace GithubSquirrelBuggyTest
         {
             try
             {
-                using (var manager= await UpdateManager.GitHubUpdateManager("githubinfo comes here....")) 
+                using (var manager= await UpdateManager.GitHubUpdateManager("https://github.com/mahomaddah/GithubSquirrelBuggyTest")) 
                 {
-
+                    var relese = await manager.UpdateApp();
+                    //UpdateManager.RestartApp();
                 }
             }
             catch (Exception ee)
