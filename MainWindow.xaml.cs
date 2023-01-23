@@ -27,16 +27,17 @@ namespace GithubSquirrelBuggyTest
             InitializeComponent();
             TBversion.Text = FileVersionInfo.GetVersionInfo(System.Reflection.Assembly.GetExecutingAssembly().Location).FileVersion;
             TBversion.IsEnabled = false;
+            checkForUpdateSquirrel();
         }
 
         private void UpdateBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            checkForUpdateSquirrel();
         }
 
         private void CheckBtn_Click(object sender, RoutedEventArgs e)
         {
-
+            MessageBox.Show("your verions is up to date...");
         }
 
         async void checkForUpdateSquirrel()
